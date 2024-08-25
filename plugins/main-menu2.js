@@ -256,7 +256,7 @@ function _0x2d9c() {
         'hnQZw',
         '𝗝𝗔𝗥𝗩𝗜𝗦\x0a│⛊\x20',
         'fromMe',
-        '{\x22display_text\x22:\x22𝗙𝗢𝗟𝗟𝗢𝗪\x20𝗠𝗘💟\x22,\x22url\x22:\x22https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11\x22,\x22merchant_url\x22:\x22https://whatsapp.com/channel/0029VagNVUxDOQIXdDYKR61J\x22}',
+        '{\x22display_text\x22:\x22𝗙𝗢𝗟𝗟𝗢𝗪\x20𝗠𝗘💟\x22,\x22url\x22:\x22https://whatsapp.com/channel/0029VagNVUxDOQIXdDYKR61J\x22,\x22merchant_url\x22:\x22https://whatsapp.com/channel/0029VagNVUxDOQIXdDYKR61J\x22}',
         'single_select',
         'Asia/Karachi',
         'KGAsd',
@@ -299,4 +299,4 @@ function _0x2d9c() {
         return _0x39be2a;
     };
     return _0x2d9c();
-    }
+                                                             }
