@@ -9,7 +9,7 @@
       "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "923092668xxx;❣️Prince"
+      "value": "256759329821;Markos"
       },
      "MODE": {
       "description": "mode public or private",
@@ -29,7 +29,7 @@
     "PREFIX": {
       "description": "Put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": ","
      },
     "antidelete": {
       "description": "BOT will forward deleted messages if you make it true",
@@ -54,17 +54,17 @@
     "STATUS_REPLY": {
       "description": "Make it true or false to turn on/off Auto status message to your contacts",
       "required": false,
-      "value": "true"
+      "value": "false"
       },
     "VIEWONCE": {
       "description": "Make true if wanna get view once message",
       "required": false,
-      "value": "true"
+      "value": "false"
        },
     "BOT_NAME": {
       "description": "Put your BOT a name",
       "required": true,
-      "value": "🎡𝗣𝗥𝗜𝗡𝗫𝗘-𝗠𝗗🎡"
+      "value": "🎡MARKOS-𝗠𝗗🎡"
       },
     "PACK_NAME": {
       "description": "Put your stickers pack name",
@@ -84,7 +84,7 @@
     "STATUSVIEW": {
       "description": "Make it true if you want the bot to auto view status",
       "required": false,
-      "value": "false"
+      "value": "true"
       },
     "Status_Saver": {
       "description": "Make it true if you want the bot to auto save your contacts status",
@@ -94,7 +94,7 @@
     "ANTI_CALL": {
       "description": "Make it true if you want bot to Block unknown callers",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AutoReaction": {
       "description": "Make it true if you want bot to react on chats",
