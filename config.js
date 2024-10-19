@@ -26,7 +26,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 //💌------------------------------------------💌
 
 
-//💌global.pairingNumber = "" //put your bot number here💌
+//💌global.pairingNumber = "Prince~84ZkzBTb#i7hGmVqGxCEN-MOorYgcZG-qOr2FqnnAAqqYdcCvdIM" //put your bot number here💌
 global.mods = ['923042205427'] 
 global.prems = ['']
 global.allowed = ['']
@@ -53,7 +53,7 @@ global.lolkeysapi = ['GataDios']
 
     
 // APIS
-global.APIs = {
+global.APIs = 
   // API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz',
@@ -73,7 +73,7 @@ global.APIs = {
 
 
 //APIs keys
-global.APIKeys = {
+global.APIKeys = "HRKU-52544f2e-d6b3-482d-8bf1-e72e04eda62e"
   // APIKey Here
   // 'https://website': 'apikey'
    'https://api.fgmods.xyz': 'm2XBbNvz',
@@ -118,20 +118,20 @@ global.princeImg = [imagen1, imagen2, imagen3, imagen4, imagen5, imagen6, imagen
 
 
 // Moderator 
-global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
+global.developer = '+923409068757' //contact
 //💌------------------------------------------💌
 
 
 
 //Sticker WM
 global.botname = process.env.BOT_NAME
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
+global.princebot = '🛡️Swati-𝘉𝘖𝘛-𝘔𝘋🛡️'
 global.packname = process.env.PACK_NAME
 global.author = 'Prince♥️' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
-global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
+global.Princesc = 'https://github.com/Atiqkhan332211/THE-PRINCE-BOT' 
 global.princeyt = 'https://youtube.com/'
 global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
 global.thumb = fs.readFileSync('./Assets/Prince.png')
