@@ -2,32 +2,32 @@
   "name": "PRINXCE-WB",
   "description": "Heroku we respect your terms and conditions and privacy policies so suspend our project",
   "keywords": ["Dastageer-ka-project-hai-bhai"],
-  "repository": "https://github.com/PRINCE-GDS/PRINXCE-WB",
+  "repository": "https://github.com Atiqkhan332211/PRINXCE-WB",
   
   "stack": "container",
   "env": {
       "OWNERS": {
-      "description": "Put your Number as Owner",
+      "description": "03409068757",
       "required": true,
       "value": "923092668xxx;❣️DASTAGEER"
       },
      "MODE": {
-      "description": "mode public or private",
+      "description": "public",
       "required": true,
       "value": "public"
        },
      "HKEY": {
-      "description": "Put your Heroku API key Here",
+      "description": "HRKU-2afb1ad9-1a5b-4a3a-b011-dfd3576177f9",
       "required": true,
       "value": ""
     },
      "HAPP": {
-      "description": "Put the Heroku app name, same as above entered",
+      "description": "swatiii",
       "required": true,
       "value": ""
        },
     "PREFIX": {
-      "description": "Put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
+      "description": ",",
       "required": false,
       "value": ""
      },
@@ -102,7 +102,7 @@
       "value": "false"
     },
     "SESSION_ID": {
-      "description": "put your session ID here in the box below",
+      "description": "Prince~thIFVAoB#F8K9PM8i-L8bO88cxF_RGauH9Ko957C9CsvjI-3KGOM",
       "required": true,
       "value": ""
     }
