@@ -26,7 +26,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 //💌------------------------------------------💌
 
 
-//💌global.pairingNumber = "Prince~84ZkzBTb#i7hGmVqGxCEN-MOorYgcZG-qOr2FqnnAAqqYdcCvdIM" //put your bot number here💌
+//💌global.pairingNumber = "" //put your bot number here💌
 global.mods = ['923042205427'] 
 global.prems = ['']
 global.allowed = ['']
@@ -73,7 +73,7 @@ global.APIs =
 
 
 //APIs keys
-global.APIKeys = "HRKU-52544f2e-d6b3-482d-8bf1-e72e04eda62e"
+global.APIKeys = ""
   // APIKey Here
   // 'https://website': 'apikey'
    'https://api.fgmods.xyz': 'm2XBbNvz',
