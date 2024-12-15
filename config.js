@@ -14,14 +14,14 @@ import dotenv from 'dotenv'
 //BETA: If you want to avoid typing the number that will be bot into the console, I added from here then:
 //Only applies to option 2 (be a bot with an 8-digit text code)
 
-global.botNumberCode = "" //Example: +923092668108
+global.botNumberCode = "+2347054145831" //Example: +923092668108
 global.confirmCode = "" 
 
 
 //💌------------------------------------------💌
 
 
-//💌global.pairingNumber = "" //put your bot number here💌
+//💌global.pairingNumber = "2347054145831" //put your bot number here💌
 global.mods = ['923092668108'] 
 global.prems = ['923092668108']
 global.allowed = ['923092668108']
